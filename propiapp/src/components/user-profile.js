@@ -1,3 +1,7 @@
-export class UserProfile {
+export default class UserProfile extends React.Component {
+
+    constructor(props) {
+        super(props);
+    }
     
 }
